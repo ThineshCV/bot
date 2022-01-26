@@ -1,3 +1,3 @@
 @Library('sharedLib')_
 
-helloWorld thinesh
+helloWorld 'thinesh'
